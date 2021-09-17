@@ -1,0 +1,1 @@
+import{p as a,a as e,c as s,b as t,F as n,o as c}from"./ant-design-vue.81eae99d.js";const d={data:()=>({html:"富文本富文本富文本富文本富文本"})};a("data-v-cb948ee4");const l=t("div",{class:"title"},"富文本标题",-1),r=["innerHTML"];e(),d.render=function(a,e,d,i,o,u){return c(),s(n,null,[l,t("div",{class:"rich",innerHTML:o.html},null,8,r)],64)},d.__scopeId="data-v-cb948ee4";export{d as default};
