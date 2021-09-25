@@ -1,0 +1,1 @@
+import{_ as t}from"./SpecialList.3d8e81a5.js";import{r as a,E as s,o as i}from"./ant-design-vue.ff5dafdc.js";const e={components:{SpecialList:t},data:()=>({dataList:[]}),async created(){this.dataList=await this.$axios.get("get_topic")}};e.render=function(t,e,d,o,n,c){const r=a("SpecialList");return i(),s(r,{dataList:n.dataList},null,8,["dataList"])};export{e as default};
