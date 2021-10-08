@@ -1,0 +1,1 @@
+import{_ as s}from"./VideoList.65dcd3ea.js";import{r as t,E as e,o as i}from"./ant-design-vue.ff5dafdc.js";const r={components:{VideoList:s},data:()=>({refreshApi:"history"}),async created(){this.refreshList()}};r.render=function(s,r,a,o,d,n){const f=t("VideoList");return i(),e(f,{list:s.dataList},null,8,["list"])};export{r as default};
