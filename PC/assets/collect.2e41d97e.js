@@ -1,0 +1,1 @@
+import{r as a,g as t,d as s,h as e,f as i,o as n}from"./ant-design-vue.e27480fc.js";const d={data:()=>({dataList:[]}),async created(){this.dataList=await this.$axios.get("collect_av")}},o=i("div",null,"123",-1);d.render=function(i,d,r,c,l,u){const f=a("VideoList");return n(),t(e,null,[o,s(f)],64)};export{d as default};
